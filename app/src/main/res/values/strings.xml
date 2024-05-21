@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arbuz Test</string>
+    <string name="home">Главная</string>
+    <string name="to_basket">Добавить в корзину</string>
+    <string name="delete_from_basket">Удалить из корзины</string>
+    <string name="basket">Корзина</string>
+    <string name="total_price">Сумма заказа</string>
+</resources>
